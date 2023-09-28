@@ -1,0 +1,14 @@
+{
+  "home": "होम",
+  "setting": "सेटिंग्स",
+  "smartBus": "स्मार्ट बस",
+  "language": "भाषा बदलें",
+  "profile": "प्रोफ़ाइल",
+  "booked": "बुक किया गया",
+  "search": "खोजें",
+  "languagename":"हिन्दी",
+  "logout": "लॉग आउट",
+  "startPoint": "शुरुआत बिंदु",
+  "destination": "गंतव्य",
+  "about": "जानकारी"
+}

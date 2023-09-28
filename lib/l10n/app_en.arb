@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "setting": "Settings",
+  "smartBus": "Smart Bus",
+  "language": "Change Language",
+  "profile": "Profile",
+  "booked": "Booked",
+  "about": "जानकारी",
+  "languagename":"English",
+  "search": "Search",
+  "logout": "Log Out",
+  "startPoint": "Start Point",
+  "destination": "Destination"
+}
